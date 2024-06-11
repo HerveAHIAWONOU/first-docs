@@ -1,0 +1,3 @@
+#Description
+
+Before learning these books make sure to some backgrounds about subects like "frontend", "backend"...
